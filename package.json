@@ -2,7 +2,7 @@
   "name": "hackertyper",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://winsvold.github.io/hackertyper/",
+  "homepage": "http://evokerking2.github.io/hackertyper",
   "dependencies": {
     "@craco/craco": "^7.0.0",
     "@types/node": "^18.13.0",
