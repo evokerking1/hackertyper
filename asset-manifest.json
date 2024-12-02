@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hackertyper/static/css/main.6eab91ae.css",
+    "main.js": "/hackertyper/static/js/main.120055ce.js",
+    "index.html": "/hackertyper/index.html",
+    "main.6eab91ae.css.map": "/hackertyper/static/css/main.6eab91ae.css.map",
+    "main.120055ce.js.map": "/hackertyper/static/js/main.120055ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6eab91ae.css",
+    "static/js/main.120055ce.js"
+  ]
+}
